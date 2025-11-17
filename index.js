@@ -1,4 +1,3 @@
 import { knightMoves } from './solution.js';
 
-knightMoves([0, 0], [3, 3]);
-
+knightMoves([3, 3], [4, 3]);
